@@ -1,0 +1,7 @@
+id asdf asdf asdf  mastermastermastermastermaster111123222
+
+s
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:baobao1214/index.git
+git push -u origin master
